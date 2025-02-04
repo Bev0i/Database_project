@@ -15,5 +15,5 @@
 |shippers|list of couriers|
 |orders|list of them, points shipper, discount and customer|
 |orders_details|points orders and tells amount of specific book|
-|orders_statutes|points orders and tells amount of specific book|
+|orders_statutes|list of order statuses|
 
